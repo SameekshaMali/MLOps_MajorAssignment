@@ -32,4 +32,4 @@ jobs:
         PYTHONPATH: .
 
     - name: Run Quantization
-    run: python src/quantize.py
+      run: python src/quantize.py
